@@ -27,6 +27,11 @@ Note: The problem can occurs when using Node version 16 to 18. It is recommended
     /testcase
         - Contains test cases or scenarios   
 package-lock.json
+    - Locks the versions of your dependencies to ensure consistent installs across environments.
 package.json
+    - Contains project metadata, dependencies, and scripts.
+.gitignore
+    - Specifies which files and directories to ignore in your Git repository (e.g., node_modules, logs, reports).
 README.md
+    - Provides documentation and an overview of the project.
 ```
